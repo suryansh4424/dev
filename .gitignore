@@ -1,0 +1,2 @@
+env/
+SECRET_KEY = 'django-insecure-_ys5m)-2bsz-gn*5d(md9ziu97=0cb_snyiv_1aecshc=khupf'
